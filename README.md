@@ -16,4 +16,4 @@ The goal of this process is to transform a 60-minute transcript or a mess of sho
 **Why this task is valuable:** Capturing action items and decisions manually is time-consuming and prone to human error or bias. Automating the first draft ensures nothing is missed and provides a consistent format for all team communications, saving hours of administrative work.
 
 ## Video Walkthrough
-[Link to be added by human]
+https://youtu.be/sFfob3afHuo
