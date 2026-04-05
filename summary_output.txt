@@ -1,0 +1,17 @@
+**Overview**
+This weekly sync focused on updating the status of the new API development and the finalization of the landing page copy. Key action items were set to ensure the API is ready for testing and the landing page is launched by the end of the week.
+
+**Key Decisions**
+*   The target launch date for the landing page is set for this Friday.
+*   The Engineering team must ensure the API is stable before the Friday launch.
+
+**Task Distribution**
+| Action Item | Owner | Deadline/Notes |
+| :---------- | :---- | :------------- |
+| Ensure API stability before launch | Tom | Before Friday |
+| Finalize landing page headline copy | Jane | Sync with design team tomorrow |
+
+**Next Steps**
+1.  Tom to ensure the API is stable for testing by Wednesday.
+2.  Jane to sync with the design team tomorrow to finalize the landing page copy.
+3.  All parties to aim for the landing page to be live by Friday.
