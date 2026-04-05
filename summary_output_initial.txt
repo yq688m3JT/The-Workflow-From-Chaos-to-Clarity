@@ -1,0 +1,12 @@
+**1. Overview of the Meeting**
+This weekly sync focused on updating the status of the new API development and the marketing landing page copy. Key focus was placed on ensuring the API is ready for testing to meet the overall launch goal.
+
+**2. Key Decisions Made**
+*   The target date for the landing page to go live is set for this Friday.
+
+**3. Action Items**
+*   **Tom (Engineering):** Ensure the API is stable and ready for testing before Friday.
+*   **Jane (Marketing):** Sync with the design team tomorrow to finalize the landing page headline copy.
+
+**4. Next Steps**
+All team members are to proceed with their assigned tasks to ensure the API is stable and the landing page copy is finalized by the agreed-upon deadline.
