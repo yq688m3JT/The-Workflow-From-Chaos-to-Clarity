@@ -44,23 +44,22 @@ def main():
     
     # Read files
     try:
-        with open(args.input, '\''r'\'') as f:
+        with open(args.input, 'r') as f:
             input_text = f.read()
-        
-        with open(args.prompt, '\''r'\'') as f:
+
+        with open(args.prompt, 'r') as f:
             system_prompt = f.read()
-            
+
     except FileNotFoundError as e:
         print(f"Error: File not found. {e}")
         return
 
     print(f"Summarizing using {args.model}...")
     summary = summarize_meeting(input_text, system_prompt, args.model)
-    
+
     # Save output
-    with open(args.output, '\''w'\'') as f:
-        f.write(summary)
-        
+    with open(args.output, 'w') as f:
+        f.write(summary)        
     print(f"Summary saved to {args.output}")
 
 if __name__ == "__main__":

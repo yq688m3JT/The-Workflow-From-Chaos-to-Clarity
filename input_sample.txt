@@ -1,0 +1,5 @@
+Sarah: Okay, let's start the weekly sync. Engineering, how's the new API coming along?
+Tom: We're about 80% done. We had a slight delay with the authentication module, but we should have it ready for testing by Wednesday.
+Sarah: Great. Marketing, did we finalize the copy for the landing page?
+Jane: Not yet. We're still debating the headline. I'll sync with the design team tomorrow to wrap it up.
+Sarah: Okay. Let's aim to have the landing page live by Friday. Tom, make sure the API is stable before then.
